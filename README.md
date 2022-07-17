@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @maksblack12
+- 🌱 I’m currently learning python
